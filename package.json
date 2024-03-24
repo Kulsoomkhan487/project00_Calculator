@@ -1,0 +1,26 @@
+{
+  "name": "@kulsoomkhan/cli-calculator",
+  "version": "3.0.2",
+  "description": "A simple calculator with typescript, Node.js and Inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kulsoom Khan",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "global": "^4.4.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.7"
+  }
+}
