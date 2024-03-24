@@ -1,6 +1,6 @@
 {
   "name": "@kulsoomkhan/cli-calculator",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "A simple calculator with typescript, Node.js and Inquirer.",
   "main": "index.js",
   "type": "module",
